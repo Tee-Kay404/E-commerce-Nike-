@@ -3,7 +3,7 @@
 A sleek e-commerce app tailored for Nike enthusiasts — explore and shop the latest sneakers, apparel, and gear with a modern UI and smooth user experience.
 
 # App_UI
-(https://github.com/Tee-Kay404/E-commerce-Nike-/blob/0b6c7b94857bd0cc62b853858ecd540d5bb68e6d/Nike.png)
+![App_UI](https://github.com/Tee-Kay404/E-commerce-Nike-/blob/0b6c7b94857bd0cc62b853858ecd540d5bb68e6d/Nike.png)
 
 ## Getting Started
 
